@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/biscuit-cake-calculator/static/css/main.59cb4e5d.chunk.css",
+    "main.js": "/biscuit-cake-calculator/static/js/main.92fd3ce7.chunk.js",
+    "main.js.map": "/biscuit-cake-calculator/static/js/main.92fd3ce7.chunk.js.map",
+    "runtime-main.js": "/biscuit-cake-calculator/static/js/runtime-main.32b57d9e.js",
+    "runtime-main.js.map": "/biscuit-cake-calculator/static/js/runtime-main.32b57d9e.js.map",
+    "static/js/2.36d52c67.chunk.js": "/biscuit-cake-calculator/static/js/2.36d52c67.chunk.js",
+    "static/js/2.36d52c67.chunk.js.map": "/biscuit-cake-calculator/static/js/2.36d52c67.chunk.js.map",
+    "index.html": "/biscuit-cake-calculator/index.html",
+    "precache-manifest.0d7c83ad6d0410a519455e636c5700f4.js": "/biscuit-cake-calculator/precache-manifest.0d7c83ad6d0410a519455e636c5700f4.js",
+    "service-worker.js": "/biscuit-cake-calculator/service-worker.js",
+    "static/css/main.59cb4e5d.chunk.css.map": "/biscuit-cake-calculator/static/css/main.59cb4e5d.chunk.css.map",
+    "static/js/2.36d52c67.chunk.js.LICENSE.txt": "/biscuit-cake-calculator/static/js/2.36d52c67.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/biscuit-cake-calculator/static/media/logo.b2680743.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32b57d9e.js",
+    "static/js/2.36d52c67.chunk.js",
+    "static/css/main.59cb4e5d.chunk.css",
+    "static/js/main.92fd3ce7.chunk.js"
+  ]
+}
